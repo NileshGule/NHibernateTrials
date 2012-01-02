@@ -1,0 +1,13 @@
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\NHibernateLearningSeries.exe
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\NHibernateLearningSeries.pdb
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\Iesi.Collections.dll
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\NHibernate.dll
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\Iesi.Collections.xml
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\NHibernate.xml
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\obj\x86\Debug\NHibernateLearningSeries.exe
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\obj\x86\Debug\NHibernateLearningSeries.pdb
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\NHibernateLearningSeries.exe.config
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\FizzWare.NBuilder.dll
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\FluentNHibernate.dll
+E:\Nilesh\Projects\NHibernateTrials\NHibernateLearningSeries\NHibernateLearningSeries\bin\Debug\FluentNHibernate.pdb

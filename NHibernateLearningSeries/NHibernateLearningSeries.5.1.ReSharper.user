@@ -1,0 +1,130 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Domain/f:Department.cs" caret="270" fromTop="10" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Mappings/f:DepartmentMap.cs" caret="367" fromTop="15" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="1367" fromTop="10" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Repository/f:DepartmentRepository.cs" caret="606" fromTop="18" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:Program.cs" caret="380" fromTop="12" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:DataGenerators/f:DepartmentGenerator.cs" caret="860" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:Program.cs" caret="590" fromTop="8" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:DataGenerators/f:DepartmentGenerator.cs" caret="839" fromTop="13" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Domain/f:Department.cs" caret="270" fromTop="10" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Mappings/f:DepartmentMap.cs" caret="367" fromTop="15" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="676" fromTop="14" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="1672" fromTop="30" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="475" fromTop="20" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="1498" fromTop="13" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Repository/f:DepartmentRepository.cs" caret="719" fromTop="17" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Repository/f:DepartmentRepository.cs" caret="230" fromTop="10" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:Program.cs" caret="546" fromTop="16" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="1476" fromTop="13" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Repository/f:DepartmentRepository.cs" caret="497" fromTop="16" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:DataGenerators/f:DepartmentGenerator.cs" caret="565" fromTop="18" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:DataGenerators/f:DepartmentGenerator.cs" caret="741" fromTop="22" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="2232" fromTop="31" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/f:NHibernateHelper.cs" caret="1367" fromTop="10" />
+      <File id="7F719FFE-7DEE-46F0-8F68-E05604551870/d:Repository/f:DepartmentRepository.cs" caret="594" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="public" priority="1" />
+      <Item value="virtual" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="Department`0" priority="2" />
+      <Item value="requiredNumber" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="departments" priority="3" />
+      <Item value="ctor" priority="0" />
+      <Item value="Id`1" priority="0" />
+      <Item value="Map`0" priority="1" />
+      <Item value="DefaultAutomappingConfiguration`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="departmentRepository" priority="1" />
+      <Item value="DepartmentRepository" priority="0" />
+      <Item value="ManagedProviderConnectionHelper`0" priority="0" />
+      <Item value="ManagedProviderConnectionHelper" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="SequentialGenerator" priority="0" />
+      <Item value="generator" priority="0" />
+      <Item value="sequentialGenerator" priority="2" />
+      <Item value="SequentialGenerator&lt;int&gt;" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="Ascending" priority="0" />
+      <Item value="Increment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FizzWare.NBuilder.Builder`1">
+      <Item value="CreateListOfSize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IListBuilder`1">
+      <Item value="Build`0" priority="0" />
+      <Item value="WhereAll`0" priority="0" />
+      <Item value="All`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernateLearningSeries.Domain.Department">
+      <Item value="DepartmentNumber" priority="0" />
+      <Item value="DepartmentName" priority="1" />
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Cfg.Db.MsSqlConfiguration">
+      <Item value="MsSql2008" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernateLearningSeries.DataGenerators.DepartmentGenerator">
+      <Item value="GenerateDepartments`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernateLearningSeries.Repository.DepartmentRepository">
+      <Item value="AddDepartments`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.AutoMappingsContainer">
+      <Item value="ExportTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentConfiguration">
+      <Item value="Mappings`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.MappingConfiguration">
+      <Item value="FluentMappings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentMappingsContainer">
+      <Item value="AddFromAssemblyOf`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IOperable`1">
+      <Item value="With`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+      <Item value="Concat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.SequentialGenerator`1">
+      <Item value="Generate`0" priority="0" />
+      <Item value="StartingWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="SaveOrUpdate`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
